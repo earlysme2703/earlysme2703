@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on **My Own**
-- 🌱 I’m currently learning **Web, Cloud Computing**
+- 🔭 I’m currently working on **My Own** Project
+- 🌱 I’m currently learning **Web, Mobile**
 - 👯 I’m looking to collaborate on **Offline**
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
